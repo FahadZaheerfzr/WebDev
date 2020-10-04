@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T12:05:02.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="z9EvBUIWaTo4vHmtMnIU" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T12:06:51.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="H3K0Jk8gPk7Y2tjMDgkS" version="13.7.7" type="github">
   <diagram id="2TiBoCND8SINbS5o84Ee" name="Page-1">
     <mxGraphModel dx="1865" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -651,8 +651,14 @@
             <mxPoint x="260" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uvrzyjrK_a_oHK1o50VB-36" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;entryX=1.029;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IGccFnjcEQaaMSDG5-hF-32" target="uvrzyjrK_a_oHK1o50VB-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="510" y="20" as="sourcePoint" />
+            <mxPoint x="590" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uvrzyjrK_a_oHK1o50VB-28" value="Review " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-190" width="160" height="176" as="geometry" />
+          <mxGeometry x="280" y="-210" width="160" height="236" as="geometry" />
         </mxCell>
         <mxCell id="uvrzyjrK_a_oHK1o50VB-29" value="Review ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=4" vertex="1" parent="uvrzyjrK_a_oHK1o50VB-28">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -669,11 +675,11 @@
         <mxCell id="uvrzyjrK_a_oHK1o50VB-30" value="Vendor ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="uvrzyjrK_a_oHK1o50VB-28">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uvrzyjrK_a_oHK1o50VB-36" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;entryX=1.029;entryY=0.107;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IGccFnjcEQaaMSDG5-hF-32" target="uvrzyjrK_a_oHK1o50VB-31">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="510" y="20" as="sourcePoint" />
-            <mxPoint x="590" y="-90" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uvrzyjrK_a_oHK1o50VB-37" value="Created" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="uvrzyjrK_a_oHK1o50VB-28">
+          <mxGeometry y="176" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uvrzyjrK_a_oHK1o50VB-38" value="Updated" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="uvrzyjrK_a_oHK1o50VB-28">
+          <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
