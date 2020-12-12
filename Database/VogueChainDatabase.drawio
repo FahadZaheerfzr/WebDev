@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T12:44:49.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="B5NglcM6CQyc5WfYsXGB" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T12:45:03.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WhAHZrPcof07z4FCPzVm" version="13.9.2" type="github">
   <diagram id="EKQX9fCXCVHphFlSRswc" name="Page-1">
     <mxGraphModel dx="948" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="075kjveACImMd5pvzpPQ-18" value="price" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="075kjveACImMd5pvzpPQ-15">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="075kjveACImMd5pvzpPQ-19" value="category" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="075kjveACImMd5pvzpPQ-15">
+        <mxCell id="075kjveACImMd5pvzpPQ-19" value="CATEGORY_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="075kjveACImMd5pvzpPQ-15">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="075kjveACImMd5pvzpPQ-20" value="description" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="075kjveACImMd5pvzpPQ-15">
